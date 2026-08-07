@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-2e30bo.pulaucuansite.com/sitemap.xml
